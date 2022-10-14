@@ -1,0 +1,23 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: bisque;
+
+    background-image: url("DevProject/resources/images/backgroundtest.png");
+  }
+   
+   
+  h1 {
+    color: SeaGreen;
+    font-size: 40px;
+  }
+   
+   
+  p, 
+  li {
+    font-size: 25px;
+  }
+   
+   
+  a {
+    text-decoration: none;
+  }
